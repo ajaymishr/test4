@@ -6,7 +6,7 @@ function preload(){
     groundimage1=loadImage("grounds.png");
 }
 function setup(){
-    createCanvas(1300,550);
+    createCanvas(1300,600);
     bg=createSprite(650,250,1550,700);
     ground1=createSprite(650,480,0,20);
     ground2=createSprite(650,20,0,20);
